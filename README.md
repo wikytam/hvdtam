@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvdtam&label=Profile%20views&color=0e75b6&style=flat" alt="hvdtam" /> </p>
 
-- 🌱 I’m currently learning **Grails, Beego Framework**
+- 🌱 I’m currently learning **Beego Framework**
 
 - 💬 Ask me about **Yii2, PHP, Wordpress**
 
