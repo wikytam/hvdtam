@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hvdtam@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/TyKaJbGEw](https://resume.io/r/TyKaJbGEw)
+- 📄 Know about my experiences [https://cv.tamk.win](https://cv.tamk.win)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
