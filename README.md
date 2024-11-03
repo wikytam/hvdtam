@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Beego Framework**
 
-- 💬 Ask me about **Yii2, PHP, Wordpress**
+- 💬 Ask me about **Yii2, PHP, React**
 
 - 📫 How to reach me **hvdtam@gmail.com**
 
